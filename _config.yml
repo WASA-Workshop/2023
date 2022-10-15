@@ -10,22 +10,22 @@
 # title appears in the header
 title: ASE Workshop 2023
 # description and keywords for meta tags
-description: "20. Workshop Automotive Software Engineering
+description: "9th International Workshop on Automotive System/Software Architectures
 "
-keywords: "workshops, automotive, software engineering"
+keywords: "workshops, automotive, software engineering, software architecture, system architecture"
 
 # author settings for cc-by, appears in the footer
-author: Stefan Kugele, Lars Grunske
+author: Stefan Kugele
 pub_year: 2023
-github_username: larsgrunske
+github_username: stefankugele
 
 # add the full url for the github repository
-repo: "https://github.com/ASE-Workshop/2023/"
+repo: "https://github.com/WASA-Workshop/2023/"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://ase-workshop.github.io
+url: https://wasa-workshop.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
 baseurl: /2023
