@@ -8,7 +8,7 @@ With the advent of software and electronics, automotive companies are enabling i
 
 This workshop aims to address issues related to the appropriate automotive system/software architecture and engineering techniques, which the automotive industry can accept. Therefore, to bring together researchers and practitioners in automotive system/software architecture and engineering, WASA is being organized with the [International Conference on Software Architecture (ICSA)](https://icsa-conferences.org/2023/), the premier international software architecture conference. Our goal is that the workshop will identify new research directions, roadmaps, challenges and establish long-term collaborations between participants from both academia and industry even after the workshop.
 
-## Call for Papers (#home)
+## Call for Papers
 The program committee of the 9th WASA edition seeks submissions of original and unpublished high-quality papers describing fundamental and applied research, new methods, approaches, and processes, novel applications, approaches for education and training in automotive system/software architecture, and experience reports on all topics related to software architecture including, but not limited to:
 
 - Automotive system/software architecture
@@ -42,24 +42,36 @@ The program committee of the 9th WASA edition seeks submissions of original and 
 - **Position or future trend papers** (max. 4 pages in IEEE Computer Science proceedings format) raising new ideas, challenges, ongoing research or early research results, and future trends.
 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 ## Important Dates (all AoE)
-|:-------------|:------------------|
-| **Paper:**         |  
-| **Notification:**  | Jan 13, 2023 |
-| **Camera-ready:**  | Jan 27, 2023 (firm) |
-
-
-
-[asdasda](#welcome-to-wasa-2023)
+> **Paper:**         
+> **Notification:**  Jan 13, 2023 
+> **Camera-ready:**  Jan 27, 2023 (firm) 
 
 ## Program
 TBA
 
-## Organization
+## Committees
+
+### Organizing Committee
+Stefan Kugele,  Technische Hochschule Ingolstadt, Germany
+Yanja Dajsuren, Eindhoven University of Technology, The Netherlands
+
+### Program Committee (tentative)
+
+- Klaus Becker (Viessmann Elektronik GmbH, Germany)
+- Christian Berger (University of Gothenburg, Sweden)
+- Reinder Bril (Eindhoven University of Technology, The Netherlands)
+- Alessio Bucaioni (M\"alardalen University, Sweden)
+- Darko Durisic (Volvo Cars, Sweden)
+- Thomas Galla (Elektrobit, Germany)
+- Uwe Honekamp (Vector, Germany)
+- Hoai Hoang Bengtsson (Volvo Cars, Sweden)
+- Philipp Obergfell (BMW Group, Germany)
+- S Ramesh (General Motors, USA)
+- Miroslaw Staron (University of Gothenburg, Sweden)
+- Mark van den Brand (Eindhoven University of Technology, The Netherlands)
+- Andreas Vogelsang (University of Cologne, Germany)
+
 
 ## Series
 
