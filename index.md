@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# (#Welcome-to-WASA-2023)
+# [anchor](#Welcome-to-WASA-2023)
 
 
 With the advent of software and electronics, automotive companies are enabling innovation to improve safety, security, driver experience, and driving automation. Moreover, the complexity and size of software keep growing because of future innovations, such as self-learning algorithms and automated driving, which all lead to the ultimate goal of autonomously driving vehicles. Consequently, the increasing use of software introduced the paradigm shift by requiring automotive companies to develop their systems using architecture and model-based techniques. Although model-based techniques, e.g. MATLAB/Simulink and Stateflow, are being accepted in the automotive industry as standard languages and tools for developing automotive control software, system and software architecture techniques are still far from being widely accepted. This excludes the AUTOSAR standard, which defines the language for designing and configuring automotive software architectures and identifies major architectural components of automotive systems. 
@@ -35,6 +35,12 @@ The program committee of the 9th WASA edition seeks submissions of original and 
   - verification & validation techniques
   - challenges and solutions for AI-based services
   - compliance management of standards or regulations
+
+### Types of Submissions
+
+- **Full papers** (max. 8 pages in IEEE Computer Science proceedings format) presenting novel research ideas, significant empirical studies, successful industrial applications, or important perspectives.
+- **Industrial papers** (max. 6 pages in IEEE Computer Science proceedings format) sharing industrial experience, challenges, research or technical problems, case studies.
+- **Position or future trend papers** (max. 4 pages in IEEE Computer Science proceedings format) raising new ideas, challenges, ongoing research or early research results, and future trends.
 
 
 > This is a blockquote following a header.
