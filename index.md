@@ -50,9 +50,7 @@ Papers need to be submitted electronically via [EasyChair]().
 All dates are AoE.
 
 > **Paper:** Dec, 09, 2022
-
 > **Notification:**  Jan 13, 2023
-
 > **Camera-ready:**  Jan 27, 2023 (firm) 
 
 ## Program
@@ -62,7 +60,7 @@ TBA
 
 ### Organizing Committee
 **Stefan Kugele**, Technische Hochschule Ingolstadt, Germany\
-**Yanja Dajsuren**, Eindhoven University of Technology, The Netherlands\
+**Yanja Dajsuren**, Eindhoven University of Technology, The Netherlands
 
 ### Program Committee (tentative)
 
