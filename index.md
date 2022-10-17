@@ -77,11 +77,11 @@ TBA
 
 ## Series
 
-[8th International Workshop on Automotive System/Software Architecture, Prague, Czech Republic, 2022](https://www.win.tue.nl/wasa2022/)
-[7th International Workshop on Automotive System/Software Architecture, Stuttgart, Germany, 2021](https://www.win.tue.nl/wasa2021/)
-[6th International Workshop on Automotive System/Software Architecture, L’Aquila, Italy, 2020](https://www.win.tue.nl/wasa2020/)
-[5th International Workshop on Automotive System/Software Architecture, Hamburg, Germany, 2019](https://www.win.tue.nl/wasa2019/)
-[4th International Workshop on Automotive System/Software Architecture, Seattle, USA, 2018](https://www.win.tue.nl/wasa2018/)
-[3rd International Workshop on Automotive Software Architecture, Gothenburg, Sweden, 2017](https://www.win.tue.nl/wasa2017/)
-[2nd International Workshop on Automotive Software Architecture, Venice, Italy, 2016](https://www.win.tue.nl/wasa2016/)
-[1st International Workshop on Automotive Software Architecture, Montréal, Canada, 2015](https://www.win.tue.nl/wasa2015/)
+- [8th International Workshop on Automotive System/Software Architecture, Prague, Czech Republic, 2022](https://www.win.tue.nl/wasa2022/)
+- [7th International Workshop on Automotive System/Software Architecture, Stuttgart, Germany, 2021](https://www.win.tue.nl/wasa2021/)
+- [6th International Workshop on Automotive System/Software Architecture, L’Aquila, Italy, 2020](https://www.win.tue.nl/wasa2020/)
+- [5th International Workshop on Automotive System/Software Architecture, Hamburg, Germany, 2019](https://www.win.tue.nl/wasa2019/)
+- [4th International Workshop on Automotive System/Software Architecture, Seattle, USA, 2018](https://www.win.tue.nl/wasa2018/)
+- [3rd International Workshop on Automotive Software Architecture, Gothenburg, Sweden, 2017](https://www.win.tue.nl/wasa2017/)
+- [2nd International Workshop on Automotive Software Architecture, Venice, Italy, 2016](https://www.win.tue.nl/wasa2016/)
+- [1st International Workshop on Automotive Software Architecture, Montréal, Canada, 2015](https://www.win.tue.nl/wasa2015/)
