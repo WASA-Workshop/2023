@@ -62,6 +62,7 @@ TBA
 **Stefan Kugele**, Technische Hochschule Ingolstadt, Germany\
 **Yanja Dajsuren**, Eindhoven University of Technology, The Netherlands
 
+
 ### Program Committee (tentative)
 
 - Klaus Becker (Viessmann Elektronik GmbH, Germany)
