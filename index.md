@@ -42,7 +42,9 @@ The program committee of the 9th WASA edition seeks submissions of original and 
 - **Position or future trend papers** (max. 4 pages in IEEE Computer Science proceedings format) raising new ideas, challenges, ongoing research or early research results, and future trends.
 
 
-## Important Dates (all AoE)
+## Important Dates
+All dates are AoE.
+
 > **Paper:**         
 > **Notification:**  Jan 13, 2023 
 > **Camera-ready:**  Jan 27, 2023 (firm) 
@@ -53,8 +55,8 @@ TBA
 ## Committees
 
 ### Organizing Committee
-Stefan Kugele,  Technische Hochschule Ingolstadt, Germany
-Yanja Dajsuren, Eindhoven University of Technology, The Netherlands
+**Stefan Kugele**, Technische Hochschule Ingolstadt, Germany\
+**Yanja Dajsuren**, Eindhoven University of Technology, The Netherlands\
 
 ### Program Committee (tentative)
 
@@ -75,102 +77,11 @@ Yanja Dajsuren, Eindhoven University of Technology, The Netherlands
 
 ## Series
 
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-[dsfasdfasfd](#Welcome-to-WASA-2023)
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[8th International Workshop on Automotive System/Software Architecture, Prague, Czech Republic, 2022](https://www.win.tue.nl/wasa2022/)
+[7th International Workshop on Automotive System/Software Architecture, Stuttgart, Germany, 2021](https://www.win.tue.nl/wasa2021/)
+[6th International Workshop on Automotive System/Software Architecture, L’Aquila, Italy, 2020](https://www.win.tue.nl/wasa2020/)
+[5th International Workshop on Automotive System/Software Architecture, Hamburg, Germany, 2019](https://www.win.tue.nl/wasa2019/)
+[4th International Workshop on Automotive System/Software Architecture, Seattle, USA, 2018](https://www.win.tue.nl/wasa2018/)
+[3rd International Workshop on Automotive Software Architecture, Gothenburg, Sweden, 2017](https://www.win.tue.nl/wasa2017/)
+[2nd International Workshop on Automotive Software Architecture, Venice, Italy, 2016](https://www.win.tue.nl/wasa2016/)
+[1st International Workshop on Automotive Software Architecture, Montréal, Canada, 2015](https://www.win.tue.nl/wasa2015/)
