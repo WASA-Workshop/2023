@@ -48,13 +48,14 @@ The program committee of the 9th WASA edition seeks submissions of original and 
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ## Important Dates (all AoE)
-```
-**Paper:** Jan
+|:-------------|:------------------|
+| **Paper:**         |  
+| **Notification:**  | Jan 13, 2023 |
+| **Camera-ready:**  | Jan 27, 2023 (firm) |
 
-** Notification:** Jan 13, 2023
 
-**Camera-ready:** Jan 27, 2023 (firm)
-```
+
+
 
 ## Program
 TBA
