@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Welcome to WASA 2023
 
@@ -39,20 +42,6 @@ The program committee of the 9th WASA edition seeks submissions of original and 
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
@@ -118,9 +107,7 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
----
-layout: default
----
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
