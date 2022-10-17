@@ -75,7 +75,7 @@ TBA
 - Andreas Vogelsang (University of Cologne, Germany)
 
 
-## Series
+## History
 
 - [8th International Workshop on Automotive System/Software Architecture, Prague, Czech Republic, 2022](https://www.win.tue.nl/wasa2022/)
 - [7th International Workshop on Automotive System/Software Architecture, Stuttgart, Germany, 2021](https://www.win.tue.nl/wasa2021/)
