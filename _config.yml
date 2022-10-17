@@ -1,41 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-# Site settings
-# title appears in the header
-title: ASE Workshop 2023
-# description and keywords for meta tags
-description: "9th International Workshop on Automotive System/Software Architectures
-"
-keywords: "workshops, automotive, software engineering, software architecture, system architecture"
-
-# author settings for cc-by, appears in the footer
-author: Stefan Kugele
-pub_year: 2023
-github_username: stefankugele
-
-# add the full url for the github repository
-repo: "https://github.com/WASA-Workshop/2023/"
-
-# site urls
-# add the url for the domain,
-# on gh-pages follow the pattern: https://username.github.io 
-url: https://wasa-workshop.github.io
-# add subsection of the domain,
-# on gh-pages this is a / followed by the name of the repository
-baseurl: /2023
-
-# add google analytics if desired (optional)
-# if blank, it will be ignored
-# use JEKYLL_ENV=production on build command
-google_analytics: 
-
-# defaults (to simplify front matter)
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-
-# Build settings
-markdown: kramdown
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
