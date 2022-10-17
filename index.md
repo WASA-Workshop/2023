@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Welcome to WASA 2023
+# Welcome to WASA 2023 (#home)
 
 With the advent of software and electronics, automotive companies are enabling innovation to improve safety, security, driver experience, and driving automation. Moreover, the complexity and size of software keep growing because of future innovations, such as self-learning algorithms and automated driving, which all lead to the ultimate goal of autonomously driving vehicles. Consequently, the increasing use of software introduced the paradigm shift by requiring automotive companies to develop their systems using architecture and model-based techniques. Although model-based techniques, e.g. MATLAB/Simulink and Stateflow, are being accepted in the automotive industry as standard languages and tools for developing automotive control software, system and software architecture techniques are still far from being widely accepted. This excludes the AUTOSAR standard, which defines the language for designing and configuring automotive software architectures and identifies major architectural components of automotive systems. 
 
 This workshop aims to address issues related to the appropriate automotive system/software architecture and engineering techniques, which the automotive industry can accept. Therefore, to bring together researchers and practitioners in automotive system/software architecture and engineering, WASA is being organized with the [International Conference on Software Architecture (ICSA)](https://icsa-conferences.org/2023/), the premier international software architecture conference. Our goal is that the workshop will identify new research directions, roadmaps, challenges and establish long-term collaborations between participants from both academia and industry even after the workshop.
 
-## Call for Papers
+## Call for Papers (#home)
 The program committee of the 9th WASA edition seeks submissions of original and unpublished high-quality papers describing fundamental and applied research, new methods, approaches, and processes, novel applications, approaches for education and training in automotive system/software architecture, and experience reports on all topics related to software architecture including, but not limited to:
 
 - Automotive system/software architecture
