@@ -41,11 +41,15 @@ The program committee of the 9th WASA edition seeks submissions of original and 
 - **Industrial papers** (max. 6 pages in IEEE Computer Science proceedings format) sharing industrial experience, challenges, research or technical problems, case studies.
 - **Position or future trend papers** (max. 4 pages in IEEE Computer Science proceedings format) raising new ideas, challenges, ongoing research or early research results, and future trends.
 
+Submissions must follow the [IEEE Computer Science proceedings format](https://www.ieee.org/conferences/publishing/templates.html), as workshop proceedings will be published in ICSA 2023 Companion proceedings, and appear in IEEE Xplore Digital Library.
+
+Papers need to be submitted electronically via [EasyChair]().
+
 
 ## Important Dates
 All dates are AoE.
 
-> **Paper:**\
+> **Paper:** Dec, 09, 2022\\
 > **Notification:**  Jan 13, 2023\ 
 > **Camera-ready:**  Jan 27, 2023 (firm) 
 
