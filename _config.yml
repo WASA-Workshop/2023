@@ -3,3 +3,11 @@ description: The 9th International Workshop on Automotive System/Software Archit
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+keywords: "workshops, automotive, software engineering"
+
+# author settings for cc-by, appears in the footer
+author: Stefan Kugele, Yanja Dajsuren
+pub_year: 2023
+github_username: stefankugele
+
+
