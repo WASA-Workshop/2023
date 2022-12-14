@@ -67,7 +67,6 @@ TBA
 
 - Klaus Becker (Viessmann Elektronik GmbH, Germany)
 - Christian Berger (University of Gothenburg, Sweden)
-- Reinder Bril (Eindhoven University of Technology, The Netherlands)
 - Alessio Bucaioni (Mälardalen University, Sweden)
 - Darko Durisic (Volvo Cars, Sweden)
 - Thomas Galla (Elektrobit, Germany)
