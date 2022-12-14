@@ -49,7 +49,7 @@ Papers need to be submitted electronically via [EasyChair](https://easychair.org
 ## Important Dates
 All dates are AoE.
 
-> **Paper:** ~~Dec, 09, 2022~~ Dec, 23, 2022 (extended, firm deadline)\
+> **Paper:** ~~Dec 09, 2022~~ Dec 23, 2022 (extended, firm deadline)\
 > **Notification:**  Jan 13, 2023\
 > **Camera-ready:**  Jan 27, 2023 (firm) 
 
