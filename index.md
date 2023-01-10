@@ -60,7 +60,8 @@ TBA
 
 ### Organizing Committee
 **Stefan Kugele**, Technische Hochschule Ingolstadt, Germany\
-**Yanja Dajsuren**, Eindhoven University of Technology, The Netherlands
+**Yanja Dajsuren**, Eindhoven University of Technology, The Netherlands\
+**Alessio Bucaioni**, Academy of Innovation, Design and Engineering, Mälardalen University, Västerås, Sweden
 
 
 ### Program Committee (tentative)
