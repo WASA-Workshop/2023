@@ -54,7 +54,12 @@ All dates are AoE.
 > **Camera-ready:**  Jan 27, 2023 (firm) 
 
 ## Program
-TBA
+This year, WASA will be jointly irganized with the 3rd International Wolrkshop on Model-Driven Engineering For Software Architecture ([MDE4SA 2023](https://mde4sa.github.io)). The programm will feature a keynote given by **Prof. Alfonso Pierantonio** "On the confluence of conceptual modeling and behavior via a posteriori typing."
+
+| Time | Topic|
+|------|:-----|
+|asasda|asdfsd|
+|------+------|
 
 ## Committees
 
