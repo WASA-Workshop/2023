@@ -56,42 +56,19 @@ All dates are AoE.
 ## Program
 This year, WASA will be jointly irganized with the 3rd International Wolrkshop on Model-Driven Engineering For Software Architecture ([MDE4SA 2023](https://mde4sa.github.io)). The programm will feature a keynote given by **Prof. Alfonso Pierantonio** "On the confluence of conceptual modeling and behavior via a posteriori typing."
 
-| **Time**             | **Topic**          |  
-| 9:00 - 9:10          | **Opening**        |
-| 9:10 - 9:50          | Keynote: _On the confluence of conceptual modeling and behavior via a posteriori typing_ by Prof. Alfonso Pierantonio_ Abstract:As realized in most traditional object-oriented notations, the concept of classification has certain limitations that may inhibit its application to modeling more complex phenomena. This is likely to prove problematic as modern software becomes increasingly more integrated with the highly dynamic physical world, and extending classification to dynamic entities may be considered helpful. Over the last decade, several approaches to posteriori typing have been introduced; however, they failed to provide a more conceptual way of describing behavior. In this presentation, we first provide a detailed description of the current limitations in existing object-oriented notations, followed by an outline of a novel approach to classification designed to overcome them. The proposed approach replaces the static multiple-inheritance hierarchy approach found in many object-oriented languages with multiple dynamic class hierarchies, each based on different classification criteria. Furthermore, it supports potentially overlapping class membership within any given scheme to better deal with ambiguous classification schemes. |
-| 9:50 - 10:30  | **Session I (Software Qualities I)** |
-|               | _Timing Predictability and Performance Standoff in Component-based Vehicle Software on Multi-core_|
-|               | Author: Saad Mubeen |
-|               | _Quality Attributes Optimization of Software Architecture: Research Challenges and Directions_|  
-|               | Authors: Daniele Di Pompeo and Michele Tucci|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+| **Time** | **Topic** |
+|--------------|---|
+| 9:00 - 9:10 | **Opening** |
+| 9:10 - 9:50 | **Keynote**_On the confluence of conceptual modeling and behavior via a posteriori typing_ by Prof. Alfonso Pierantonio_<br>Abstract: As realized in most traditional object-oriented notations, the concept of classification has certain limitations that may inhibit its application to modeling more complex phenomena. This is likely to prove problematic as modern software becomes increasingly more integrated with the highly dynamic physical world, and extending classification to dynamic entities may be considered helpful. Over the last decade, several approaches to posteriori typing have been introduced; however, they failed to provide a more conceptual way of describing behavior. In this presentation, we first provide a detailed description of the current limitations in existing object-oriented notations, followed by an outline of a novel approach to classification designed to overcome them. The proposed approach replaces the static multiple-inheritance hierarchy approach found in many object-oriented languages with multiple dynamic class hierarchies, each based on different classification criteria. Furthermore, it supports potentially overlapping class membership within any given scheme to better deal with ambiguous classification schemes. |
+| 9:50 - 10:30 | **Session I (Software Qualities I)**<br><br>_Timing Predictability and Performance Standoff in Component-based Vehicle Software on Multi-core_ <br>Author: Saad Mubeen<br><br>_Quality Attributes Optimization of Software Architecture: Research Challenges and Directions_ <br>Authors: Daniele Di Pompeo and Michele Tucci |
 | 10:30 - 11:00 | **Break** |
-| 11:00 - 11:40 | **Session2 (Software Qualities II)**|
-|               | _Model-based Confidentiality Analysis under Uncertainty_ |
-|               | Authors: Sebastian Hahner, Tizian Bitschi, Maximilian Walter, Tomáš Bureš, Petr Hnětynka and Robert Heinrich |
-|               | _A customizable approach to assess software quality through Multi-Criteria Decision Making_|
-|               | Authors: Francesco Basciani, Daniele Di Pompeo, Juri Di Rocco and Alfonso Pierantonio|
-| 11:40 - 12:20 | **Session 3 (Security)**|
-|               | _Towards supporting malleable architecture models_ |
-|               | Authors: Robbert Jongeling and Federico Ciccozzi |
-|               | _Automatic Derivation of Vulnerability Models for Software Architectures_|
-|               | Authors: Yves R. Kirschner, Maximilian Walter, Florian Bossert, Robert Heinrich and Anne Koziolek |
-| 12:20 - 13:30 | **Lunch**|
-| 13:30 - 14:10 | **Session 4 (Architecture modelling)**|
-|               | _Modeling Data Analytics Architecture for IoT Applications using DAT_ |
-|               | Authors: Moamin Abughazala and Henry Muccini|
-|               | _Metamodel portioning for flexible and secure architectural views_ |
-|               | Authors: Malvina Latifaj, Federico Ciccozzi and Antonio Cicchetti
-| 14:10 - 15:10 | **Session 5 (Automotive Software Architecture)** |
-|               | _Distributed Integration of Electronic Control Units for Automotive OEMs: Challenges, Vision, and Research Directions_|
-|               | Authors: Stefanos Tziampazis, Oliver Kopp and Michael Weyrich|
-|               | _Continuous Safety Assessment of Updated Supervised Learning Models in Shadow Mode_
-|               | Authors: Houssem Guissouma, Moritz Zink and Eric Sax|
-|               | _Safety-Aware Deployment Synthesis and Trade-Off Analysis of Apollo Autonomous Driving Platform_ |
-|               | Authors: Tarik Terzimehic, Simon Barner, Yuri Gil Dantas, Ulrich Schöpp, Vivek Nigam and Pei Ke |
-|---------------+------------------------------------|
-| 15:10 - 15:50 | Discussion |  
-| 15:50 - 16:00 | Closing    |   
-|---------------+------------|
+| 11:00 - 11:40 | **Session2 (Software Qualities II)**<br><br>_Model-based Confidentiality Analysis under Uncertainty_ <br>Authors: Sebastian Hahner, Tizian Bitschi, Maximilian Walter, Tomáš Bureš, Petr Hnětynka and Robert Heinrich<br><br>_A customizable approach to assess software quality through Multi-Criteria Decision Making_<br>Authors: Francesco Basciani, Daniele Di Pompeo, Juri Di Rocco and Alfonso Pierantonio |
+| 11:40 - 12:20 | **Session 3 (Security)**<br><br>_Towards supporting malleable architecture models_<br>Authors: Robbert Jongeling and Federico Ciccozzi<br><br>_Automatic Derivation of Vulnerability Models for Software Architectures_ <br>Authors: Yves R. Kirschner, Maximilian Walter, Florian Bossert, Robert Heinrich and Anne Koziolek |
+| 12:20 - 13:30 | **Lunch** |
+| 13:30 - 14:10 | **Session 4 (Architecture modelling)**<br><br>_Modeling Data Analytics Architecture for IoT Applications using DAT_ <br>Authors: Moamin Abughazala and Henry Muccini<br><br>_Metamodel portioning for flexible and secure architectural views_ <br>Authors: Malvina Latifaj, Federico Ciccozzi and Antonio Cicchetti |
+| 14:10 - 15:10 | **Session 5 (Automotive Software Architecture)**<br><br>_Distributed Integration of Electronic Control Units for Automotive OEMs: Challenges, Vision, and Research Directions_ <br>Authors: Stefanos Tziampazis, Oliver Kopp and Michael Weyrich<br><br>_Continuous Safety Assessment of Updated Supervised Learning Models in Shadow Mode_ <br>Authors: Houssem Guissouma, Moritz Zink and Eric Sax<br><br>_Safety-Aware Deployment Synthesis and Trade-Off Analysis of Apollo Autonomous Driving Platform_ <br>Authors: Tarik Terzimehic, Simon Barner, Yuri Gil Dantas, Ulrich Schöpp, Vivek Nigam and Pei Ke |
+| 15:10 - 15:50 | **Discussion** |
+| 15:50 - 16:00 | **Closing** |
 
 ## Committees
 
