@@ -54,10 +54,10 @@ All dates are AoE.
 > **Camera-ready:**  Jan 27, 2023 (firm) 
 
 ## Program
-This year, WASA will be jointly irganized with the 3rd International Wolrkshop on Model-Driven Engineering For Software Architecture ([MDE4SA 2023](https://mde4sa.github.io)). The programm will feature a keynote given by **Prof. Alfonso Pierantonio** "On the confluence of conceptual modeling and behavior via a posteriori typing."
+This year, WASA will be jointly irganized with the 3rd International Workshop on Model-Driven Engineering For Software Architecture ([MDE4SA 2023](https://mde4sa.github.io)). The programm will feature a keynote given by **Prof. Alfonso Pierantonio** "On the confluence of conceptual modeling and behavior via a posteriori typing."
 
 | **Time** | **Topic** |
-|--------------|---|
+|-----------------|--------|
 | 9:00 - 9:10 | **Opening** |
 | 9:10 - 9:50 | **Keynote**_On the confluence of conceptual modeling and behavior via a posteriori typing_ by Prof. Alfonso Pierantonio_<br>Abstract: As realized in most traditional object-oriented notations, the concept of classification has certain limitations that may inhibit its application to modeling more complex phenomena. This is likely to prove problematic as modern software becomes increasingly more integrated with the highly dynamic physical world, and extending classification to dynamic entities may be considered helpful. Over the last decade, several approaches to posteriori typing have been introduced; however, they failed to provide a more conceptual way of describing behavior. In this presentation, we first provide a detailed description of the current limitations in existing object-oriented notations, followed by an outline of a novel approach to classification designed to overcome them. The proposed approach replaces the static multiple-inheritance hierarchy approach found in many object-oriented languages with multiple dynamic class hierarchies, each based on different classification criteria. Furthermore, it supports potentially overlapping class membership within any given scheme to better deal with ambiguous classification schemes. |
 | 9:50 - 10:30 | **Session I (Software Qualities I)**<br><br>_Timing Predictability and Performance Standoff in Component-based Vehicle Software on Multi-core_ <br>Author: Saad Mubeen<br><br>_Quality Attributes Optimization of Software Architecture: Research Challenges and Directions_ <br>Authors: Daniele Di Pompeo and Michele Tucci |
